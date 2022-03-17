@@ -63,17 +63,17 @@ S = "Hi, i'm Matvey, i'm 20 years old"
 
 print(countDis(S))
 
-"""
-
-# reg = re.compile("[^a-zA-Z ]+")
-
-filename = "readpls.txt"
-n = 1
-with open(filename, "r") as fh:
-    for line in fh:
-        # print(str(n) + ')' + line)
-        n += 1
-        x = re.findall("[0-9][0-9]", line)
-        print(n, x)
-
-"""
+# """
+#
+# # reg = re.compile("[^a-zA-Z ]+")
+#
+# filename = "readpls.txt"
+# n = 1
+# with open(filename, "r") as fh:
+#     for line in fh:
+#         # print(str(n) + ')' + line)
+#         n += 1
+#         x = re.findall("[0-9][0-9]", line)
+#         print(n, x)
+#
+# """
