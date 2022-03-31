@@ -48,7 +48,7 @@
 - [Лаба_3](https://vk.com/doc162345063_622811439?hash=914d100bae1de20302&dl=734aa06b36db9581a1)
 - [Лаба_4](https://vk.com/doc162345063_623413628?hash=b6ef0bd7044b4c69d5&dl=2ecfa2720e14e77bee)
 - Лаба_5
-  1. [часть_1](https://vk.com/doc162345063_624011975?hash=f5047745fab915a4f5&dl=c2a2291fa33d57df08)
-  2. [часть_2](https://vk.com/doc162345063_624011955?hash=898f05eb09f8cb9ddc&dl=008dc4a948440b3ef0)
-  3. [часть_3](https://vk.com/doc162345063_624011983?hash=70b399b99585ca0f43&dl=7a5cd69cd99fc1baa6)
+  - [часть_1](https://vk.com/doc162345063_624011975?hash=f5047745fab915a4f5&dl=c2a2291fa33d57df08)
+  - [часть_2](https://vk.com/doc162345063_624011955?hash=898f05eb09f8cb9ddc&dl=008dc4a948440b3ef0)
+  - [часть_3](https://vk.com/doc162345063_624011983?hash=70b399b99585ca0f43&dl=7a5cd69cd99fc1baa6)
 
